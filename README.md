@@ -37,7 +37,7 @@
 <hr>
 
 ## Contáctame 
-[![LinkedIn](https://img.icons8.com/?size=100&id=13930&format=png&color=000000)](#https://www.linkedin.com/in/edu-garciav/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BruseIHusQ5KuXup5MctGLw%3D%3D)
+[![LinkedIn](https://img.icons8.com/?size=100&id=13930&format=png&color=000000)](https://linkedin.com/in/edu-garciav)
 [![GitHub](https://img.icons8.com/?size=100&id=iEBcQcM9rnZ9&format=png&color=000000)](https://github.com/egarciav-dev-fe)
 [![Email](https://img.icons8.com/?size=100&id=124193&format=png&color=000000)](mailto:egarciav.dev.fe@gmail.com)
 
