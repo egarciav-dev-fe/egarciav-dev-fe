@@ -26,7 +26,7 @@
 
 <hr>
 
-#### Mi experiencia laboral principalmente se basa en trabajo relacionado con el area TI, por el lado de la disponibilizacion y mantenimiento de tecnologia. Igualmente poseo experiencia en Backend, prestando apoyo en la refactorizacion y actualizacion de motores de desicion crediticio con base a multifactores de Score en la CMF.
+#### Mi experiencia laboral principalmente se basa en trabajo relacionado con el área TI, por el lado de la disponibilización y mantenimiento de técnologia. Igualmente poseo experiencia en Backend, prestando apoyo en la refactorizacion y actualizacion de motores de desición crediticio con base a multifactores de Score en la CMF.
 
 <hr>
 
